@@ -1,0 +1,9 @@
+1. Paradigms of Aritificial Intelligence Programming: Case Studies in Common Lisp
+2. Code: The Hidden Language of Computer Hardware and Software
+3. An introduction to algorithms
+4. Aritificial Intelligence: A modern approach
+5. ON LISP
+6. ANSI Common LISP
+7. LISP in small pieces
+8. The little lisper
+9. The seasoned schemer
